@@ -19,7 +19,6 @@
 - Python
 - Java
 - SQL
-- JavaScript
 
 ### Technologies & Tools
 - Git & GitHub
@@ -27,7 +26,6 @@
 - PostgreSQL
 - MySQL
 - VS Code
-- Linux
 
 ---
 
