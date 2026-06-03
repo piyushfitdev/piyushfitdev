@@ -1,56 +1,21 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">Aspiring Software Developer | DSA Learner | Building Skills One Day at a Time 🚀</h3>
+# 💫 About Me:
+🎓 Computer Science Student<br>💻 Currently learning DSA, System Design, Docker, PostgreSQL & Backend Development<br>📚 Solving problems on LeetCode & improving problem-solving skills<br>🛠️ Building projects to strengthen development skills<br>🎯 Goal: Become a strong Software Engineer<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushfitdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushk2100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushabesit@gmail.com) 
+
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=piyushfitdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=piyushfitdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyushfitdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=piyushfitdev&icon=2&color=4)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Student
-- 💻 Currently learning **DSA, System Design, Docker, PostgreSQL & Backend Development**
-- 📚 Solving problems on LeetCode & improving problem-solving skills
-- 🛠️ Building projects to strengthen development skills
-- 🎯 Goal: Become a strong Software Engineer
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-- Python
-- Java
-- SQL
-
-### Technologies & Tools
-- Git & GitHub
-- Docker
-- PostgreSQL
-- MySQL
-- VS Code
-
----
-
-## 📈 Currently Working On
-
-- DSA Consistency
-- Backend Development
-- Real-world Projects
-- Improving Development Workflow
-
----
-
-## 📌 Featured Projects
-
-### 🔹 VectorForge
-High-performance vector database with HNSW, KD-Tree, semantic search, and local RAG powered by Ollama.
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn
-- Twitter
-- Instagram
-
----
-
-⭐️ From piyushfitdev
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
