@@ -40,17 +40,8 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Internship Project
-Project built during internship experience.
-
-### 🔹 DSA Practice
-Problem-solving and algorithm implementations.
-
-### 🔹 Database Management Projects
-SQL & PostgreSQL practice projects.
-
-### 🔹 Python Automation Scripts
-Small utility and automation projects.
+### 🔹 VectorForge
+High-performance vector database with HNSW, KD-Tree, semantic search, and local RAG powered by Ollama.
 
 ---
 
